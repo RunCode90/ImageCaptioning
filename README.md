@@ -16,3 +16,4 @@ Instructions
 
     If you want to do evaluation on COCO, make sure to download the COCO API from here if your on Linux or from here if your on Windows. Then download the COCO caption toolkit from here and re-name the folder to cococaption. (This also requires java. Simply dowload it from here if you don't have it).
 
+Updating
