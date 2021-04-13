@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: nlg-eval
+Version: 2.1
+Summary: Wrapper for multiple NLG evaluation methods and metrics.
+Home-page: https://github.com/Maluuba/nlg-eval
+Author: Shikhar Sharma, Hannes Schulz, Justin Harris
+Author-email: shikhar.sharma@microsoft.com, hannes.schulz@microsoft.com, justin.harris@microsoft.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
