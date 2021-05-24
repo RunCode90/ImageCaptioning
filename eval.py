@@ -9,7 +9,7 @@ import torch.nn.functional as F
 from tqdm import tqdm
 from nlgeval import NLGEval
 
-# Parameters
+# Parameters PATH
 # data_folder = '../chanspaiok5flickr/captiondata'  # folder with data files saved by create_input_files.py
 data_folder = '../../../../code/Code/chanspai-coco5/captiondata/'
 data_name = 'coco_5_cap_per_img_5_min_word_freq'  # base name shared by data files
