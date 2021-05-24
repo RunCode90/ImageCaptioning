@@ -1,8 +1,3 @@
-"""
-功能: 单层lstm, 第一层输入channel attention++spatial attention+decoded(2048+196+512),初始化h0,c0有图像encoded的mean值,
-     attention关系:将第一层隐函层的输出分别同encoded进行Attention.
-     增加channel Attention中double stochastic regulation;(效果最好)
-"""
 import torch
 from torch import nn
 import torchvision
