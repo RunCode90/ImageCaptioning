@@ -18,7 +18,7 @@ Instructions
 
  Training
 
-To train the model from scratch, type:
+Simply run python main.py to start training.
 
     python3.6 train.py
 
