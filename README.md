@@ -28,4 +28,6 @@ Weight normalization was found to prevent the model from overfitting and is used
 Gradients are clipped during training to prevent gradient explosion that is not uncommon with LSTMs. The attention dimensions, word embedding dimension and hidden dimensions of the LSTMs are set to 1024.
 
 
+ Testing
+
 Updating
