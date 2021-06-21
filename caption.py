@@ -245,7 +245,7 @@ if __name__ == '__main__':
     args.img = './img/COCO_val2014_000000000395.jpg'
     args.model = './BEST_checkpoint_flickr30k_5_cap_per_img_5_min_word_freq.pth.tar'
     args.word_map = '../chanspaiok5flickr/captiondata/WORDMAP_flickr30k_5_cap_per_img_5_min_word_freq.json'
-    args.beam_size = 3
+    args.beam_size = 3  # 5
     print(args)
     #########################################################################
 
