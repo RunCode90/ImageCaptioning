@@ -60,4 +60,4 @@ class CaptionDataset(Dataset):
             return img, caption, caplen, all_captions
 
     def __len__(self):
-        return self.dataset_size
+        return self.dataset_size #
