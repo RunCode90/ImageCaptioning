@@ -18,8 +18,8 @@ data_name = 'coco_5_cap_per_img_5_min_word_freq'
 # Model parameters
 emb_dim = 512  # dimension of word embeddings 512
 attention_dim = 1024   #  dimension of attention linear layers 512
-attention_chan_dim = 1024  #  512  # 1024  # channelattention线性层维度 add
-pixels_dim = 196  # channelattention像素的维度
+attention_chan_dim = 1024  #  512  # 1024 
+pixels_dim = 196  # channelattention
 decoder_dim = 512  # dimension of decoder RNN  512
 dropout = 0.5
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")  # sets device for model and PyTorch tensors
